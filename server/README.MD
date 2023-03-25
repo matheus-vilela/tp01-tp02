@@ -1,5 +1,3 @@
-# blood-donation
----
 ## Para executar o projeto
 
 Siga os passos abaixo para configurar o ambiente.
