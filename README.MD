@@ -1,6 +1,6 @@
-# blood-donation
+# Doacao de sangue
 ---
-## FRONTEND
+## Objetivo
 
 Atividade desenvolvida com o intuito de criar um sistema com backend e web, relacionado sobre um sistema de doação de sangue.
 
@@ -20,9 +20,6 @@ Selecione qual ambiente deseja configurar para obter detalhes de instalação.
 [`backend`](server/README.MD)
 \
 [`frontend`](web/README.MD)
-
-## FRONTEND
-
 
 ---
 ---
